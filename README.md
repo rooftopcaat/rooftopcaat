@@ -1,6 +1,6 @@
 ## Hi, I'm rooftopcaat :blush:
 
-### I am a Front-end Developer based-in Korea, Seoul.
+### I am a Trainee Front-end Developer based-in Korea, Seoul.
 
 ### Skills 
 
