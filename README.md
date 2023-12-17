@@ -1,6 +1,6 @@
 ## Hi, I'm rooftopcaat :blush:
 
-### I'm a trainee starting my career as a front-end developer based-in Korea, Seoul.
+### I'm a trainee starting my career as a developer based-in Korea, Seoul.
 
 ### I'd like to expand my knowledge of basic backend development and cloud technology, and one day work on a large project.
 
